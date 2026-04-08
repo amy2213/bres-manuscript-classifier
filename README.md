@@ -108,26 +108,31 @@ python api.py --host 0.0.0.0 --port 5000 --debug
 
 ```text
 bres-manuscript-classifier/
-âââ classifier_multi_label.py
-âââ api.py
-âââ requirements.txt
-âââ requirements-dev.txt
-âââ setup.py
-âââ .gitignore
-âââ LICENSE
-âââ CONTRIBUTING.md
-âââ CHANGELOG.md
-âââ artifact_data_files/
-âââ docs/
-â   âââ API.md
-â   âââ CSV_FORMAT.md
-â   âââ FEATURES.md
-âââ .github/
-    âââ ISSUE_TEMPLATE/
-    â   âââ bug_report.md
-    âââ workflows/
-        âââ ci.yml
-```
+  classifier_multi_label.py
+  api.py
+  requirements.txt
+  requirements-dev.txt
+  setup.py
+  .gitignore
+  LICENSE
+  CONTRIBUTING.md
+  CHANGELOG.md
+
+  artifact_data_files/
+
+  docs/
+    API.md
+    CSV_FORMAT.md
+    FEATURES.md
+
+  .github/
+    ISSUE_TEMPLATE/
+      bug_report.md
+    workflows/
+      ci.yml
+
+
+
 
 ---
 
