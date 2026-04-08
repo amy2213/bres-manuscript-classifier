@@ -196,7 +196,7 @@ Contributions are welcome. See `CONTRIBUTING.md` for guidelines.
 
 ## License
 
-MIT License â see `LICENSE`
+MIT License see `LICENSE`
 
 ---
 
