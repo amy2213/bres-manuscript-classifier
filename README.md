@@ -25,13 +25,12 @@ This system focuses on **structural pattern detection**, not linguistic translat
 |------|------------------|---------------|
 | 36-phase decan | Dendera Zodiac, Coffin Texts | ~36 unique symbols |
 | 12-month solar | Roman, Babylonian calendars | 12 unique symbols, cyclical |
-| Lunar mansion (28) | Chinese XiÃ¹, Arabic ManÄzil | 28 unique symbols |
+| Lunar mansion (28) | Chinese Xiu (Xiù), Arabic Manazil (Manāzil) | 28 unique symbols |
 | Lunisolar 18-month | Coligny Calendar | 18 unique symbols |
 | Zodiacal 12 | Hellenistic zodiac | 12 signs, circular layout |
-| Ritual 260-day | Maya Tzolkin | 13Ã20 structure |
+| Ritual 260-day | Maya Tzolkin | 13 x 20 structure |
 | Herbal / botanical | Medieval herbals, Voynich | Plant keyword density |
-| Synodic lunar | Babylonian, Hebrew systems | 29â30 unit cycles |
-
+| Synodic lunar | Babylonian, Hebrew systems | 29-30 unit cycles |
 ---
 
 ## Quick start
